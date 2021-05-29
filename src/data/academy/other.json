@@ -1,0 +1,14 @@
+{
+    "slug": "otros",
+    "title": "Otros Estudioss",
+    "description": "Formacion por otros medios",
+    "items": [
+        {
+            "name": "Ingles",
+            "plataforma": "Cevam",
+            "image": "../../image/",
+            "description": "Ingles basico a avazando presencial",
+            "id": "000001"
+        }
+    ]
+}

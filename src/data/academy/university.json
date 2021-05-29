@@ -1,0 +1,18 @@
+{
+    "slug": "universidad",
+    "title": "Estudios Academicos",
+    "description": "Formacion Universitaria presencial en el territorio Venezolano",
+    "items": [
+        {
+            "name": "Tecnico superior en Informatica",
+            "plataforma": "UPTM",
+            "image": "../../image/",
+            "fecha": {
+                "inicio": "10/09/2018",
+                "finalizacion": "En curso"
+            },
+            "description": "Carrera tecnica de Informatica",
+            "id": "000001"
+        }
+    ]
+}

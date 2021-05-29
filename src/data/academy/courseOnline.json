@@ -1,0 +1,61 @@
+{
+    "slug": "cursos",
+    "title": "Formacion Online",
+    "description": "Formacion Online, cursos y talleres realizados de forma online",
+    "items": [
+        {
+            "name": "Curso Basico de Progrmacion",
+            "plataforma": "Platzi.com",
+            "url": "https://platzi.com/",
+            "image": "../../image/",
+            "fecha": "",
+            "description": "Curso de programacion con JavaScript creando un juego en la web",
+            "id": "000002"
+        },
+        {
+            "name": "Curso diseño para Programadores",
+            "plataforma": "Codigofacilito.com",
+            "url": "https://codigofacilito.com/",
+            "image": "../../image/",
+            "fecha": "",
+            "description": "Aprendiendo la base de los conceptos básicos y las mejores prácticas de diseño que se pueden aplicar en el desarrollo de software",
+            "id": "000003"
+        },
+        {
+            "name": "Curso de MongoDB y Node.js con Mongoose",
+            "plataforma": "Codigofacilito.com",
+            "url": "https://codigofacilito.com/",
+            "image": "../../image/",
+            "fecha": "",
+            "description": "Curso basico y avanzado de MongoDB utilizando node.js y Mongoose. Aprendiendo sus ventajas y demandas ",
+            "id": "000004"
+        },
+        {
+            "name": "Curso de Gatsby",
+            "plataforma": "Gatsbyjs.com",
+            "url": "https://www.gatsbyjs.com",
+            "image": "../../image/",
+            "fecha": "",
+            "description": "Curso basico y avanzado de MongoDB utilizando node.js y Mongoose. Aprendiendo sus ventajas y demandas ",
+            "id": "000005"
+        },
+        {
+            "name": "Curso de Next",
+            "plataforma": "Nextjs.org",
+            "url": "https://nextjs.org",
+            "image": "../../image/",
+            "fecha": "",
+            "description": "Curso basico y avanzado de MongoDB utilizando node.js y Mongoose. Aprendiendo sus ventajas y demandas ",
+            "id": "000006"
+        },
+        {
+            "name": "Curso de Illustractor",
+            "plataforma": "Udemy.com",
+            "url": "https://udemy.com/",
+            "image": "../../image/",
+            "fecha": "",
+            "description": "Curso basico y avanzado de Illustractor una de las aplicaciones mas usada y con mayor reconocimiento en las imagenes vectoriales necesario para cualquier diseñador ",
+            "id": "000007"
+        }
+    ]
+}
